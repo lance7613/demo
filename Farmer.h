@@ -8,7 +8,4 @@ class Farmer : virtual public Person
 	string m_strName;
 public:
 	Farmer(string name = "Jack", string color = "yellow");
-	virtual ~Farmer();
-	void sow();
-	virtual void test();
-};
+	virtual ~F
